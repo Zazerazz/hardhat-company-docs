@@ -250,7 +250,7 @@ Long-Term Deliverables for the project:
 
 
 #### Project Members
-[Please see appendix D - NASA Exploits Project](#appendix-e)
+[Please see appendix E - NASA Exploits Project](#appendix-e)
 <div style="page-break-after: always;"></div>
 
 ### Appendix A
@@ -268,7 +268,8 @@ Long-Term Deliverables for the project:
 
 <div style="page-break-after: always;"></div>
 
-### Appendix Penetration Testing GUI Team Members
+### Appendix B
+#### Penetration Testing GUI Team Members
 | Name                  | Role                  |
 | -----------           | -----------           |
 | -                   | Project Lead          |
